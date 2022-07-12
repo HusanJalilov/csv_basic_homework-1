@@ -6,6 +6,6 @@ def find_number_of_columns(data):
     Return:
         int: Number of columns.
     """
-    return
+    return o
 
 # Read the csv file
